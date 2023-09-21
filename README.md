@@ -31,7 +31,7 @@ tales como:
 
 • **Compra o no de bicicleta** (Bike Purchase)
 
-Hacemos uso de la base de datos: **DataSet SQL Analisis Masivo de Datos.xlsx**
+Hacemos uso de la base de datos: **dataset_bike_shop.xlsx**
 
 ## Tecnología
 
